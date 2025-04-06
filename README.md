@@ -21,6 +21,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
 - 🌐 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
